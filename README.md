@@ -20,7 +20,9 @@
 
 5. Used Git: Clone in Cursor to open the repository. 
 
-6. Wrote a README.md file that describes the tools installed, steps completed, and issues and its resolutions that arose in the process
+6. Wrote a README.md file that describes the tools installed, steps completed, and issues and its resolutions that arose in the process.
 
-7. Commited and pushed to GitHub.
+7. Set global Git identity (name & email) through git config in the terminal.
+
+8. Commited and pushed to GitHub.
 
